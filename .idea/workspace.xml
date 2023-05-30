@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f094614-9b7f-4511-b0d0-c2ffdaf45dad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/model/ProductPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/model/StorePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/utils/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/crudtest/ProductCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/crudtest/StoreCURDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/testsuite/ProductAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/testsuite/ProductsExtractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/testsuite/StoresAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/testsuite/StoresExtractionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QObivV08EsLTEgEcmHGnWgVtK1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.StoreCURDTest.deleteTheStoreDetail">
+    <configuration name="ProductCRUDTest.deleteTheProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project-sw-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.ProductCRUDTest" />
+      <option name="METHOD_NAME" value="deleteTheProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreCURDTest.createStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project-sw-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.StoreCURDTest" />
+      <option name="METHOD_NAME" value="createStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreCURDTest.deleteTheStoreDetail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project-sw-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.StoreCURDTest" />
+      <option name="METHOD_NAME" value="deleteTheStoreDetail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreCURDTest.getTheStoreDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project-sw-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.StoreCURDTest" />
+      <option name="METHOD_NAME" value="getTheStoreDetails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreCURDTest.updateTheStoreDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy-restassured-project-sw-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.StoreCURDTest" />
+      <option name="METHOD_NAME" value="updateTheStoreDetails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StoreCURDTest.deleteTheStoreDetail" />
+        <item itemvalue="JUnit.StoreCURDTest.updateTheStoreDetails" />
+        <item itemvalue="JUnit.StoreCURDTest.getTheStoreDetails" />
+        <item itemvalue="JUnit.StoreCURDTest.createStore" />
+        <item itemvalue="JUnit.ProductCRUDTest.deleteTheProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f094614-9b7f-4511-b0d0-c2ffdaf45dad" name="Changes" comment="" />
+      <created>1685227706423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685227706423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
